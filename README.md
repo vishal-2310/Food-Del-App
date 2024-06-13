@@ -1,0 +1,2 @@
+# Food-Del App
+ Welcome to the Food Delivery App! This application is designed to revolutionize the way you order and enjoy your favorite meals from the comfort of your home. Whether you're craving pizza, sushi, or a healthy salad, our app brings the best local restaurants straight to your doorstep. With a user-friendly interface and a seamless ordering experience, satisfying your hunger has never been easier.
